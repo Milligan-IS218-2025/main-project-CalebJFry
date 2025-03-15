@@ -7,7 +7,6 @@ body {
     width: 100%;
     position: relative;
     background-color: lightcoral;
-    border-left: 5px solid gray;
     text-align: center;
     color: #FFFFE8
 }
@@ -15,7 +14,7 @@ body {
 header, footer {
     background-color: #3D315B;
     color: #FFFFE8;
-    padding: 5em;
+    padding: 1em;
 }
 
 nav ul li {
