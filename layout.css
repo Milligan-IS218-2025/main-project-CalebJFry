@@ -21,3 +21,14 @@ body {
     border-left: 5px solid gray;
     border-right: 5px solid gray;
 }
+
+header, footer {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
