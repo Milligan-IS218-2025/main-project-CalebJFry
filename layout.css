@@ -7,11 +7,18 @@ body {
     text-align: center;
     color: #FFFFE8
 }
-
+header{
+    top: 0;
+}
+footer{
+    bottom: 0;
+}
 header, footer {
     background-color: #3D315B;
     color: #FFFFE8;
     padding: 1em;
+    right: 0;
+    left: 0;
 }
 
 nav ul li {
