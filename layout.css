@@ -32,3 +32,8 @@ nav ul li {
     margin: 0 10px;
     list-style-type: none;
 }
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
