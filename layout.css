@@ -9,7 +9,8 @@ body {
     text-align: center;
     display: flex;
     flex-direction: column;
-    color: #FFFFE8
+    color: #FFFFE8;
+    min-height: 100vh;
 }
 
 header,
