@@ -17,6 +17,7 @@ header,
 footer {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
     background-color: #3D315B;
     color: #FFFFE8;
     padding: 1em;
