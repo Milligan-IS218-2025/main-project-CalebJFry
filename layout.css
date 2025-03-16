@@ -7,7 +7,6 @@ body {
     padding: 0;
     position: relative;
     background-color: #C9ADA7;
-    text-align: center;
     display: flex;
     flex-direction: column;
     color: #FFFFE8;
@@ -16,12 +15,18 @@ body {
 
 header,
 footer {
+    text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #3D315B;
     color: #FFFFE8;
     padding: 1em;
     right: 0;
     left: 0;
+}
+
+h1{
+    text-align: center;
+    border-bottom: 1px solid black;
 }
 
 ul {
