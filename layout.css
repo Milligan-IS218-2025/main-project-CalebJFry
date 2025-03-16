@@ -25,13 +25,17 @@ footer {
     left: 0;
 }
 
-h1{
+h1 {
     text-align: center;
 }
 
 ul {
     list-style-type: none;
     padding: 0;
+}
+
+article>ul {
+    list-style-type: circle;
 }
 
 nav ul li {
@@ -45,16 +49,16 @@ ul li a {
     text-decoration: none;
 }
 
-a:hover{
+a:hover {
     color: #C9ADA7;
     font-weight: bold;
 }
 
-.main{
+.main {
     flex: 1;
     padding: 20px;
 }
 
-img{
+img {
     max-width: 40em;
 }
