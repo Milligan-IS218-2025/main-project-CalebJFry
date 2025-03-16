@@ -42,3 +42,7 @@ a:hover{
     color: #C9ADA7;
     font-weight: bold;
 }
+
+.middle{
+    flex: 1;
+}
