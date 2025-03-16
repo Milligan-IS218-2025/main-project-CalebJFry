@@ -22,7 +22,7 @@ footer {
     left: 0;
 }
 
-nav ul {
+ul {
     list-style-type: none;
     padding: 0;
 }
@@ -33,7 +33,7 @@ nav ul li {
     list-style-type: none;
 }
 
-nav ul li a {
+ul li a {
     color: white;
     text-decoration: none;
 }
