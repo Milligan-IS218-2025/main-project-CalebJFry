@@ -7,13 +7,10 @@ body {
     position: relative;
     background-color: #C9ADA7;
     text-align: center;
-    display: flex;
-    flex-direction: column;
     color: #FFFFE8
 }
 
-
-header footer {
+header, footer {
     background-color: #3D315B;
     color: #FFFFE8;
     padding: 1em;
