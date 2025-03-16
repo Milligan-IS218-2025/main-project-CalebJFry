@@ -10,17 +10,20 @@
 }
 
 section {
-    border: 5px solid #77A0A9;
+    border: 5px solid #D90368;
+    background-color: #444B6E;
     grid-column: 1 / 2;
     padding: 20px;
 }
 article {
-    border: 5px solid #77A0A9;
+    border: 5px solid #D90368;
+    background-color: #444B6E;
     grid-column: 1 / 2;
     padding: 20px;
 }
 aside {
-    border: 5px solid #77A0A9;
+    border: 5px solid #D90368;
+    background-color: #444B6E;
     grid-column: 2 / 3;
     grid-row: 1 / 3;
     padding: 20px;
