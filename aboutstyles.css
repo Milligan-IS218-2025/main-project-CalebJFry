@@ -10,21 +10,17 @@
 }
 
 section {
-    border-style: solid;
-    border: 3px;
-    border-color: #77A0A9;
+    border: 5px solid #77A0A9;
     grid-column: 1 / 2;
     padding: 20px;
 }
 article {
-    border: 15px solid green;
+    border: 5px solid #77A0A9;
     grid-column: 1 / 2;
     padding: 20px;
 }
 aside {
-    border-style: solid;
-    border: 3px;
-    border-color: #77A0A9;
+    border: 5px solid #77A0A9;
     grid-column: 2 / 3;
     grid-row: 1 / 3;
     padding: 20px;
