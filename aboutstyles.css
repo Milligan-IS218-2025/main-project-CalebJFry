@@ -17,9 +17,7 @@ section {
     padding: 20px;
 }
 article {
-    border-style: solid;
-    border: 3px;
-    border-color: #77A0A9;
+    border: 15px solid green;
     grid-column: 1 / 2;
     padding: 20px;
 }
