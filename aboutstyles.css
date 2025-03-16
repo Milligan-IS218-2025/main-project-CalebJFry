@@ -10,6 +10,7 @@
 }
 
 section {
+    border: 10px;
     background-color: aqua;
     grid-column: 1 / 2;
     padding: 20px;
