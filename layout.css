@@ -15,6 +15,7 @@ body {
 
 header,
 footer {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #3D315B;
     color: #FFFFE8;
     padding: 1em;
