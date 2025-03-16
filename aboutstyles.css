@@ -10,20 +10,17 @@
 }
 
 section {
-    border-color: black;
-    border: 2px;
+    background-color: aqua;
     grid-column: 1 / 2;
     padding: 20px;
 }
 article {
-    border-color: black;
-    border: 2px;
+    background-color: aqua;
     grid-column: 1 / 2;
     padding: 20px;
 }
 aside {
-    border-color: black;
-    border: 2px;
+    background-color: aqua;
     grid-column: 2 / 3;
     grid-row: 1 / 3;
     padding: 20px;
