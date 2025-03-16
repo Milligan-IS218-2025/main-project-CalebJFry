@@ -37,3 +37,8 @@ nav ul li a {
     color: white;
     text-decoration: none;
 }
+
+a:hover{
+    color: #C9ADA7;
+    font-weight: bold;
+}
