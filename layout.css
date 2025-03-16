@@ -54,6 +54,10 @@ a:hover {
     font-weight: bold;
 }
 
+a:active {
+    color: blue;
+  }
+
 .main {
     flex: 1;
     padding: 20px;
