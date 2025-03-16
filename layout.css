@@ -27,13 +27,15 @@ ul {
     padding: 0;
 }
 
-
-ul li a {
-    color: white;
-    text-decoration: none;
+nav ul li {
     display: inline;
     margin: 0 10px;
     list-style-type: none;
+}
+
+ul li a {
+    color: #FFFFE8;
+    text-decoration: none;
 }
 
 a:hover{
