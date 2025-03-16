@@ -10,14 +10,17 @@
 }
 
 section {
+    border: 2px;
     grid-column: 1 / 2;
     padding: 20px;
 }
 article {
+    border: 2px;
     grid-column: 1 / 2;
     padding: 20px;
 }
 aside {
+    border: 2px;
     grid-column: 2 / 3;
     grid-row: 1 / 3;
     padding: 20px;
