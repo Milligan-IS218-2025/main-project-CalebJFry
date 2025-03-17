@@ -68,8 +68,10 @@ table{
     margin-left: 200px;
     background-color: #758BFD;
 }
-
-tr{
+th{
+    font-style: italic;
+}
+td{
     border-style: dashed;
     border: 5px solid #376271;
 }
