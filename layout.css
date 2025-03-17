@@ -68,3 +68,7 @@ table{
     margin-left: 200px;
     background-color: burlywood;
 }
+
+tr{
+    border: solid black 2px;
+}
