@@ -70,6 +70,7 @@ table{
 }
 th{
     font-style: italic;
+    border: 2px solid #923863
 }
 td{
     border-style: dashed;
