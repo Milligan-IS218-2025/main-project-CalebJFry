@@ -67,14 +67,13 @@ table{
     margin-right: 200px;
     margin-left: 200px;
     background-color: #758BFD;
-    color: red;
 }
 
 tr{
     border-style: dashed;
     border: 5px solid #376271;
 }
-table > p{
-    text-align:center;
-    color:red;
+
+.solo{
+    text-align: center;
 }
