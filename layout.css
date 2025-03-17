@@ -70,5 +70,5 @@ table{
 }
 
 tr{
-    border: solid black 2px;
+    border-style: dashed;
 }
