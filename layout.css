@@ -73,3 +73,6 @@ tr{
     border-style: dashed;
     border: 5px solid #376271;
 }
+table > p{
+    text-align:center;
+}
