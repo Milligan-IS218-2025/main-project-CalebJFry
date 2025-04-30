@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* Formatting specifically for the welcome page */
+
+/* formatting for images */
+img {
+    max-width: 400px;
+    border-style: solid;
+    border-color: #002642;
+}
+/* to make the main section a flex box */
+main div{
+    display: flex;
+    align-items: center;
+}
+main div li{
+    flex: 1
+}
+/* formatting to remove the bullet points from lists */
+li{
+    list-style-type: none;
+}
+/* formatting for paragraphs elements within the list */
+main div li p{
+    background-color: #D7D9D7;
+    min-height: 500px;
+    border: solid;
+    border-color: #002642;
+    padding: 15px;
+}
+/* formatting for the div element */
+main div{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}

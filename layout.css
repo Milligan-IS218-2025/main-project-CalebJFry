@@ -1,0 +1,78 @@
+@charset "utf-8";
+
+/* Base layout */
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    background-color: #886F68;
+    color: #440D0F;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+/* allows for the main element to stay in between the headers */
+
+main {
+    flex: 1;
+    padding: 20px;
+}
+
+/* Header and footer styles */
+header,
+footer {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: #002642;
+    color: #ECE4B7;
+    padding: 1em;
+    left: 0;
+    right: 0;
+    max-height: 50em;
+}
+
+/* for the main header */
+h1 {
+    text-align: center;
+}
+
+/* fomats the links */
+ul li a {
+    color: #ECE4B7;
+    text-decoration: none;
+}
+/* changes the color and size of the page links when you hover over them with the mouse */
+
+a:hover {
+    color: #886F68;
+    font-weight: bold;
+}
+
+/* formatting for the nav element in the header */
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+    list-style-type: none;
+}
+
+/* formatting for images */
+img {
+    max-width: 400px;
+    border-style: solid;
+    border-color: #002642;
+}
+/* formatting for the tables */
+
+table {
+    place-self: center;
+}
+/* formatting for the header 2 element */
+h2 {
+    text-align: center;
+}
+/* hides the thank you response until form is submitted */
+#response {
+    display: none;
+}
