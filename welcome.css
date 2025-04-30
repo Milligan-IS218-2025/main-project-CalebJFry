@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+
+/* Images */
+img {
+    max-width: 400px;
+    border-style: solid;
+    border-color: #002642;
+}
+
+.center{
+    text-align: center;
+}
+
+main div{
+    display: flex;
+    align-items: center;
+}
+
+main div li{
+    flex: 1
+}
+
+li{
+    list-style-type: none;
+}
+
+main div li p{
+    background-color: #D7D9D7;
+    min-height: 500px;
+    border: solid;
+    border-color: #002642;
+    padding: 15px;
+}
+
+main div{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}

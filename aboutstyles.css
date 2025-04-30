@@ -1,26 +1,32 @@
 @charset "utf-8";
 
-.main{
+main {
     display: grid;
-            grid-template-columns: 2fr 1fr;
-            grid-template-rows: auto auto;
-            gap: 20px;
-            padding: 20px;
-            flex: 1;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 20px;
+    padding: 20px;
+    flex: 1;
 }
 
-section {
+.top {
     border: 5px solid #758BFD;
     background-color: #444B6E;
     grid-column: 1 / 2;
     padding: 20px;
+
 }
-article {
+
+.bottom {
     border: 5px solid #758BFD;
     background-color: #444B6E;
     grid-column: 1 / 2;
     padding: 20px;
+
+
+
 }
+
 aside {
     border: 5px solid #758BFD;
     background-color: #444B6E;
