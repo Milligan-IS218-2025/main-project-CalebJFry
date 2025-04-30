@@ -1,5 +1,5 @@
 @charset "utf-8";
-
+/* helps format the main elements */
 main {
     display: grid;
     grid-template-columns: 2fr 1fr;
@@ -8,7 +8,7 @@ main {
     padding: 20px;
     flex: 1;
 }
-
+/* formats the top div element on the golf and swimming pages */
 .top {
     border: 5px solid #758BFD;
     background-color: #444B6E;
@@ -16,7 +16,7 @@ main {
     padding: 20px;
 
 }
-
+/* formats the bottom div element on the golf and swimming pages */
 .bottom {
     border: 5px solid #758BFD;
     background-color: #444B6E;
@@ -26,7 +26,7 @@ main {
 
 
 }
-
+/* formats the aside element for on the golf and swimming pages */
 aside {
     border: 5px solid #758BFD;
     background-color: #444B6E;

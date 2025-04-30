@@ -12,13 +12,14 @@ body {
     flex-direction: column;
     min-height: 100vh;
 }
+/* allows for the main element to stay in between the headers */
 
 main {
     flex: 1;
     padding: 20px;
 }
 
-/* Header & Footer */
+/* Header and footer styles */
 header,
 footer {
     text-align: center;
@@ -37,44 +38,41 @@ h1 {
     text-align: center;
 }
 
-/* Links */
+/* fomats the links */
 ul li a {
     color: #ECE4B7;
     text-decoration: none;
 }
+/* changes the color and size of the page links when you hover over them with the mouse */
 
 a:hover {
     color: #886F68;
     font-weight: bold;
 }
 
-/* Navigation */
+/* formatting for the nav element in the header */
 nav ul li {
     display: inline;
     margin: 0 10px;
     list-style-type: none;
 }
 
-/* Images */
+/* formatting for images */
 img {
     max-width: 400px;
     border-style: solid;
     border-color: #002642;
 }
+/* formatting for the tables */
 
 table {
     place-self: center;
 }
-
+/* formatting for the header 2 element */
 h2 {
     text-align: center;
 }
-
-table,
-#stars {
-    place-self: center;
-}
-
+/* hides the thank you response until form is submitted */
 #response {
     display: none;
 }
